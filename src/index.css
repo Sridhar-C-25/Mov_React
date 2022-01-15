@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+   background: #111827;
+}
+
+#rate {
+   background: conic-gradient(rgb(3, 133, 255) 30%, rgb(242, 242, 242) 30%);
+}
